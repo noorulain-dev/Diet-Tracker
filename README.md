@@ -3,7 +3,7 @@ Creating a diet tracker to track meals and workouts in C++
 
 UML is included in the files of the program
 
-##Output
+## Output
 ![Screenshot (332)](https://user-images.githubusercontent.com/80438950/201936595-255a8d98-d69c-4a24-af61-9a35150cb81c.png)
 ![Screenshot (334)](https://user-images.githubusercontent.com/80438950/201936600-4ca1b3fe-38d4-4b14-ab68-76dcc8262047.png)
 ![Screenshot (335)](https://user-images.githubusercontent.com/80438950/201936602-aa94946e-9f44-4455-9463-a95b29ffc7a7.png)
